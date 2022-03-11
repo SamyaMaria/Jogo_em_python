@@ -1,0 +1,15 @@
+banana
+mesa
+paralelepipido
+forno
+torneira
+mouse
+janela
+marca
+fortaleza
+televisao
+notebook
+relogio
+cama
+
+
