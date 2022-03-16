@@ -55,5 +55,5 @@ def jogar_adivinhacao():
     print("\nFIM DO JOGO!!!")
 
 
-if __name__ == "__main__" : #para executar no promp de comando o arquivo invidualmente sem precisar passar pelo que está integrado.
+if __name__ == "__main__": #para executar no promp de comando o arquivo invidualmente sem precisar passar pelo que está integrado.
     jogar_adivinhacao()
